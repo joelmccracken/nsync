@@ -1,0 +1,4 @@
+[package]
+name = "nsync"
+version = "0.1.0"
+authors = ["Joel McCracken <mccracken.joel@gmail.com>"]
